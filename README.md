@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tridinhvu
+- 👋 Hi, I’m @tridinhvu205
 - 👀 I’m interested in Information Technology major
 - 🌱 I’m currently learning C# and Java programming language
 - 💞️ I’m looking to collaborate on this platform
